@@ -1,2 +1,2 @@
-# coursera--bung
+# coursera-uebung
 Coursera test/übungen
